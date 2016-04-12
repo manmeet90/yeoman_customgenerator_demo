@@ -1,7 +1,7 @@
 # generator-nfirstapi 
 
 ## To Run try
-`npm install
-npm link
-yo nfirstapi
+`npm install <br/>
+npm link <br/>
+yo nfirstapi<br/>
 `
